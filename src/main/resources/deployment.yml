@@ -1,0 +1,24 @@
+deployment:
+ instances:
+  instance:
+   -
+    dockerFileLocation: "xzxxzx"
+    distributionName: zxzxzx
+    targetDockerImageName: zxzxzx
+    isCarbonInstance: true
+    _id: AS0001
+   -
+    dockerFileLocation: xzxxzxjj
+    distributionName: zxzxzx
+    targetDockerImageName: zxzxzx
+    isCarbonInstance: true
+    _id: ESB0001
+   -
+    dockerFileLocation: xzxxjzx
+    distributionName: zxzxzx
+    targetDockerImageName: zxzxzx
+    isCarbonInstance: false
+    parameters:
+     driverName: sddd
+     driverversion: erereer
+    _id: Mysql0001
